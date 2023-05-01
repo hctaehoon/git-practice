@@ -6,6 +6,7 @@ def print_hello():
 	'Jane',
 	'Gil-Dong',
 	'Dong-eun',
+	'Tae-Hoon',
 ] # W/ trailing comma
     foods=[
 	'spagetti',
